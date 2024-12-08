@@ -1,0 +1,15 @@
+else startIndex, endIndex, i integer
+else isFound real
+else Atrive boolean
+startIndex = 100d:
+let endIndex = 231d:
+isFound = 12.123E+12:
+
+{ true if index found }
+for ( i ; i < endIndex; i = i + 1d) output (i):
+if i <> startIndex 
+then output(i)
+else input (i) end_else:
+
+do while endIndex <= 100d output (endIndex or 1d) loop:
+end

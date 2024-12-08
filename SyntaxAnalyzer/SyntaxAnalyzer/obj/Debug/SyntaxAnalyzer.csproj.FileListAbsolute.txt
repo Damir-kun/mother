@@ -1,0 +1,41 @@
+C:\Users\Виталий\OneDrive\Рабочий стол\Софт\Учёба\4 курс, 1 семак\Теория автоматов\Курсовая работа\SyntaxAnalyzer\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.exe.config
+C:\Users\Виталий\OneDrive\Рабочий стол\Софт\Учёба\4 курс, 1 семак\Теория автоматов\Курсовая работа\SyntaxAnalyzer\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.exe
+C:\Users\Виталий\OneDrive\Рабочий стол\Софт\Учёба\4 курс, 1 семак\Теория автоматов\Курсовая работа\SyntaxAnalyzer\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.pdb
+C:\Users\Виталий\OneDrive\Рабочий стол\Софт\Учёба\4 курс, 1 семак\Теория автоматов\Курсовая работа\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.csprojAssemblyReference.cache
+C:\Users\Виталий\OneDrive\Рабочий стол\Софт\Учёба\4 курс, 1 семак\Теория автоматов\Курсовая работа\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.Form1.resources
+C:\Users\Виталий\OneDrive\Рабочий стол\Софт\Учёба\4 курс, 1 семак\Теория автоматов\Курсовая работа\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.Properties.Resources.resources
+C:\Users\Виталий\OneDrive\Рабочий стол\Софт\Учёба\4 курс, 1 семак\Теория автоматов\Курсовая работа\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.csproj.GenerateResource.cache
+C:\Users\Виталий\OneDrive\Рабочий стол\Софт\Учёба\4 курс, 1 семак\Теория автоматов\Курсовая работа\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\OneDrive\Рабочий стол\Софт\Учёба\4 курс, 1 семак\Теория автоматов\Курсовая работа\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.exe
+C:\Users\Виталий\OneDrive\Рабочий стол\Софт\Учёба\4 курс, 1 семак\Теория автоматов\Курсовая работа\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.pdb
+D:\SyntaxAnalyzer\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.exe.config
+D:\SyntaxAnalyzer\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.exe
+D:\SyntaxAnalyzer\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.pdb
+D:\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.csprojAssemblyReference.cache
+D:\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.Form1.resources
+D:\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.Properties.Resources.resources
+D:\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.csproj.GenerateResource.cache
+D:\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.csproj.CoreCompileInputs.cache
+D:\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.exe
+D:\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.pdb
+F:\Учёба\4 курс\Теория автоматов\SyntaxAnalyzer\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.exe.config
+F:\Учёба\4 курс\Теория автоматов\SyntaxAnalyzer\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.exe
+F:\Учёба\4 курс\Теория автоматов\SyntaxAnalyzer\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.pdb
+F:\Учёба\4 курс\Теория автоматов\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.csproj.AssemblyReference.cache
+F:\Учёба\4 курс\Теория автоматов\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.Form1.resources
+F:\Учёба\4 курс\Теория автоматов\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.Properties.Resources.resources
+F:\Учёба\4 курс\Теория автоматов\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.csproj.GenerateResource.cache
+F:\Учёба\4 курс\Теория автоматов\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.csproj.CoreCompileInputs.cache
+F:\Учёба\4 курс\Теория автоматов\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.exe
+F:\Учёба\4 курс\Теория автоматов\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.pdb
+E:\бах\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.exe
+E:\бах\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.pdb
+E:\бах\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.csproj.AssemblyReference.cache
+E:\бах\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.csproj.SuggestedBindingRedirects.cache
+E:\бах\SyntaxAnalyzer\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.exe.config
+E:\бах\SyntaxAnalyzer\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.exe
+E:\бах\SyntaxAnalyzer\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.pdb
+E:\бах\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.Form1.resources
+E:\бах\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.Properties.Resources.resources
+E:\бах\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.csproj.GenerateResource.cache
+E:\бах\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.csproj.CoreCompileInputs.cache

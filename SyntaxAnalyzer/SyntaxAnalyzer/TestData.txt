@@ -1,0 +1,16 @@
+begin
+dim startIndex, endIndex, i %;
+dim isFound !;
+dim Atrive $;
+startIndex = 100d;
+let endIndex = 231d;
+isFound = 12.123E+12;
+
+/* true if index found */
+for ( i ; i < endIndex; i = i + 1d) output (i);
+if i <> startIndex; 
+then output(i);
+else input (i) end_else;
+
+do while endIndex <= startIndex output (endIndex or 1d) loop;
+end
